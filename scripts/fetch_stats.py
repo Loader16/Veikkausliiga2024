@@ -33,7 +33,7 @@ def hae_pelaajan_pisteet():
         soup = BeautifulSoup(response.text, 'html.parser')
         taulukko_rivit = soup.find_all('tr')
 
-        etsittavat_pelaajat = ["Haarala Santeri", "Moreno Ciorciari, Jaime Jose", "Karjalainen, Rasmus", "Plange, Luke Elliot", "Odutayo, Colin"]
+        etsittavat_pelaajat = ["Haarala, Santeri", "Moreno Ciorciari, Jaime Jose", "Karjalainen, Rasmus", "Plange, Luke Elliot", "Odutayo, Colin"]
         pelaajat_pisteet = []
         kokonaispisteet_pelaajat = 0
 
