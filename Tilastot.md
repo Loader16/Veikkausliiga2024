@@ -16,6 +16,7 @@
 |12. | EIF | 8 | 0 | 3 | 5 | 7 | 15 | -8 | 4 | 52 | 13,46 | 89 | 26 | 1 | 8 | 3|
 
 # Pelaajien pisteet
+* Haarala, Santeri: 10.4 pistettä
 * Karjalainen, Rasmus: 5.4 pistettä
 * Moreno Ciorciari, Jaime Jose: 9.2 pistettä
 * Odutayo, Colin: 5.7 pistettä
@@ -23,9 +24,9 @@
 
 **Kokonaispisteet joukkueille: 0**
 
-**Kokonaispisteet pelaajille: 27.3**
+**Kokonaispisteet pelaajille: 37.7**
 
-**Yhteispisteet: 27.3**
+**Yhteispisteet: 37.7**
 
 # Veikattu Sarjataulukko
 | Sijoitus | Joukkue |
